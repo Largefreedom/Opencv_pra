@@ -10,6 +10,9 @@
 * [人脸融合技术](https://github.com/Largefreedom/Opencv_pra/tree/master/Face%20Morph)
 ![out_img.jpg](http://ww1.sinaimg.cn/large/007wRTdIly1gfj0hq4pcqj31e00m8qfn.jpg)
 ![out_img.jpg](http://ww1.sinaimg.cn/large/007wRTdIly1gfj0kety6mj31e00m8amq.jpg)
+* [Face Swap](https://github.com/Largefreedom/Opencv_pra/tree/master/Face%20Swap)
+![左右原图,中间为生成图](http://ww1.sinaimg.cn/large/007wRTdIly1gfklo9tgktj32dc0sg1bg.jpg)
+![角色转换人脸替换图](http://ww1.sinaimg.cn/large/007wRTdIly1gfklyhjciqj315o0dwwj3.jpg)
 ----
 #### 个人建议：代码结合博客食用效果更佳，博客地址：https://blog.csdn.net/weixin_42512684
 
