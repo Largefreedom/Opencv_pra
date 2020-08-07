@@ -13,6 +13,10 @@
 * [Face Swap](https://github.com/Largefreedom/Opencv_pra/tree/master/Face%20Swap)
 ![左右原图,中间为生成图](http://ww1.sinaimg.cn/large/007wRTdIly1gfklo9tgktj32dc0sg1bg.jpg)
 ![ds](http://ww1.sinaimg.cn/large/007wRTdIly1gfklyhjciqj315o0dwwj3.jpg)
+-----
+* [图片转化九宫格小程序](https://github.com/Largefreedom/pyqt5-master/tree/master/Jiugongge)
+![Snipaste_2020-08-02_20-55-46.png](http://ww1.sinaimg.cn/large/007wRTdIly1ghcrjq6i9bj309f09saam.jpg)
+![录制_2020_08_02_19_41_58_289.gif](http://ww1.sinaimg.cn/large/007wRTdIly1ghcrmlq09zg30zk0k0npf.gif)
 ----
 #### 个人建议：代码结合博客食用效果更佳，博客地址：https://blog.csdn.net/weixin_42512684
 
