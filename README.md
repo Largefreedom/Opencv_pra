@@ -13,6 +13,8 @@
 * [Face Swap](https://github.com/Largefreedom/Opencv_pra/tree/master/Face%20Swap)
 ![左右原图,中间为生成图](http://ww1.sinaimg.cn/large/007wRTdIly1gfklo9tgktj32dc0sg1bg.jpg)
 ![ds](http://ww1.sinaimg.cn/large/007wRTdIly1gfklyhjciqj315o0dwwj3.jpg)
+* [Tree_Detect/图片中圣诞树检测标记](https://github.com/Largefreedom/Opencv_pra/tree/master/Tree_Detect)
+![Snipaste_2020-12-26_14-46-39](https://images.zeroingpython.top/img/Snipaste_2020-12-26_14-46-39.jpg)
 
 ----
 #### 个人建议：代码结合博客食用效果更佳，博客地址：[小张Python | 专注 Python 编程！ (zeroingpython.top)](https://zeroingpython.top/)
