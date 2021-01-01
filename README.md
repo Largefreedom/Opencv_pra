@@ -23,5 +23,5 @@
 
 **公众号二维码地址：**
 <br>
-![Snipaste_2020-02-08_16-08-20.jpg](https://images.zeroingpython.top/img/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f303038623852797a677931676c6b353768696b616b6a333164703068616469782e6a7067.jpg)
+![Snipaste_2021-01-01_09-44-31](https://images.zeroingpython.top/img/Snipaste_2021-01-01_09-44-31.png)
 
