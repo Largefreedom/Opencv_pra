@@ -25,4 +25,4 @@
 
 **公众号二维码地址：**
 <br>
-![Snipaste_2020-02-08_16-08-20.jpg](http://ww1.sinaimg.cn/large/007wRTdIly1gbp24g2fhlj30kc07a0th.jpg)
+![Snipaste_2021-01-01_09-44-31](https://images.zeroingpython.top/img/Snipaste_2021-01-01_09-44-31.png)
